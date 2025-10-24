@@ -32,6 +32,12 @@
  - [X] Create logout
  - [X] Add auth middleware
 
+## Furniture EndPoints
+ - [X] Add furniture model
+ - [] Add furniture service
+ - [] Add furniture endpoint
+
+
 ## Bonus
  - [X] Use env variables through "dotenv"
  - [ ] Invalidate token
