@@ -7,6 +7,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "module",
-  "description": ""
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
