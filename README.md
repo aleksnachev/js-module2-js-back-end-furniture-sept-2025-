@@ -13,3 +13,4 @@
 ## Setup REST API
  - [X] Initialize project and add .gitignore
  - [X] Install and setup express
+ - [X] Add cors
