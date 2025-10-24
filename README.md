@@ -30,7 +30,7 @@
  - [X] Generate and return token
  - [X] Auto login after register
  - [X] Create logout
- - [ ] Add auth middleware
+ - [X] Add auth middleware
 
 ## Bonus
  - [X] Use env variables through "dotenv"
