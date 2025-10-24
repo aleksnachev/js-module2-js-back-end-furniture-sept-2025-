@@ -25,3 +25,6 @@
  - [X] Add user service with register method
  - [X] Install bcrypt
  - [X] Hash password on register
+ - [X] Add login endpoint
+ - [X] Verify login credentials
+ - [ ] Return token
