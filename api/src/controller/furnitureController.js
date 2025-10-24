@@ -35,14 +35,16 @@ furnitureController.post('/', async (req,res) => {
     }
 })
 
-furnitureController.put('/:furnitureId' , async(req,res) => {
+furnitureController.put('/:furnitureId' , async(req,res, next) => {
     const furnitureId = req.params.furnitureId
     const furnitureData = req.body
     try{
         const furniture = await furnitureService.update(furnitureId,furnitureData)
         res.json(furniture)
     }catch(err){
-        //Error handling
+        // Partial Handling
+        err.statusCode = 404
+        next(err)
     }
 })
 

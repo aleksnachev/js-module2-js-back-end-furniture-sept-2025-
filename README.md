@@ -46,7 +46,7 @@
 
 ## Error Handling
  - [X] Create error util for message
- - [ ] Global error handler
+ - [X] Global error handler
 
 ## Bonus
  - [X] Use env variables through "dotenv"
