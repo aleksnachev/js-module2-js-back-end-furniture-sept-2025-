@@ -51,3 +51,4 @@
 ## Bonus
  - [X] Use env variables through "dotenv"
  - [ ] Invalidate token
+ - [X] Build with vite (in client folder)
