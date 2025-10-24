@@ -27,7 +27,10 @@
  - [X] Hash password on register
  - [X] Add login endpoint
  - [X] Verify login credentials
- - [ ] Generate and return token
+ - [X] Generate and return token
+ - [X] Auto login after register
+ - [ ] Create logout
+ - [ ] Add auth middleware
 
 ## Bonus
  - [X] Use env variables through "dotenv"
