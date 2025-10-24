@@ -12,7 +12,7 @@ try{
     console.log('Succesfully conected to db');
     
 }catch(err){
-    console.error('Cannot coneect do db')
+    console.error('Cannot conect do db')
     console.error(err.message)
 }
 //Add CORS

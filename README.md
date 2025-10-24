@@ -23,5 +23,5 @@
  - [X] Install mongoose and config(database)
  - [X] Add user model
  - [X] Add user service with register method
- - [ ] Install bcrypt
- - [ ] Hash password on register
+ - [X] Install bcrypt
+ - [X] Hash password on register
