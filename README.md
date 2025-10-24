@@ -29,8 +29,9 @@
  - [X] Verify login credentials
  - [X] Generate and return token
  - [X] Auto login after register
- - [ ] Create logout
+ - [X] Create logout
  - [ ] Add auth middleware
 
 ## Bonus
  - [X] Use env variables through "dotenv"
+ - [ ] Invalidate token
