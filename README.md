@@ -40,6 +40,7 @@
  - [X] Select only needed information for catalog
  - [X] Create details endpoint
  - [X] Add owner relation to furniture model
+ - [X] Edit furniture endpoint
 
 ## Error Handling
 
