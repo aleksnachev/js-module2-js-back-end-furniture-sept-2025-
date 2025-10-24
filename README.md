@@ -15,3 +15,6 @@
  - [X] Install and setup express
  - [X] Add cors
  - [X] Add furniture controller
+
+## Create Authentication and Authorization
+ - [X] Create auth controller
