@@ -37,6 +37,7 @@
  - [] Add furniture service
  - [] Add furniture endpoint
 
+## Error Handling
 
 ## Bonus
  - [X] Use env variables through "dotenv"
