@@ -9,4 +9,7 @@
 ## Startup client
  - [X] Install vite (local dev server)
  - [X] Setup vite
-   
+
+## Setup REST API
+ - [X] Initialize project and add .gitignore
+ - [ ] Install and setup express
