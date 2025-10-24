@@ -6,7 +6,7 @@ import mongoose from 'mongoose'
 const app = express()
 //Setup mongoose
 try{
-    await mongoose.connect('mongodb://localhost:27017', {
+    await mongoose.connect('mongodb://127.0.0.1:27017', {
         dbName:'furniture-sept-2025'
     })
     console.log('Succesfully conected to db');
