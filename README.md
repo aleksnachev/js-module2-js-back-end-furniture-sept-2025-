@@ -18,3 +18,5 @@
 
 ## Create Authentication and Authorization
  - [X] Create auth controller
+ - [X] Add json parser
+ - [X] Add register endpoint
