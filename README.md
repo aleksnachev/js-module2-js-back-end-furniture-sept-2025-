@@ -27,4 +27,7 @@
  - [X] Hash password on register
  - [X] Add login endpoint
  - [X] Verify login credentials
- - [ ] Return token
+ - [ ] Generate and return token
+
+## Bonus
+ - [X] Use env variables through "dotenv"
