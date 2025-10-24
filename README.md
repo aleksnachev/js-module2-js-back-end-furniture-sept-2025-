@@ -41,6 +41,7 @@
  - [X] Create details endpoint
  - [X] Add owner relation to furniture model
  - [X] Edit furniture endpoint
+ - [X] Delete furniture endpoint
 
 ## Error Handling
 
