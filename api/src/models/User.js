@@ -8,7 +8,8 @@ const userSchema = new Schema({
     },
     password:{
         type:String,
-        required: [true, 'User password is requred!']
+        required: [true, 'User password is requred!'],
+        minLength: [6, 'Password too short']
     }
 })
 
