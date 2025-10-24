@@ -37,6 +37,7 @@
  - [X] Add furniture service
  - [X] Add furniture endpoint
  - [X] Get all furnitures
+ - [X] Select only needed information for catalog
 
 ## Error Handling
 
